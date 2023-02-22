@@ -9,5 +9,9 @@ def EhPrimo(N):
 
     if V >2:
         print("Não é primo")
+
+        return "Não é primo"
     else:
         print("é primo")
+
+        return "É primo"
